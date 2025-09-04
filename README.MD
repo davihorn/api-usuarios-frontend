@@ -17,7 +17,7 @@ cd api-usuarios-frontend
 
 ## 3 - Abra o arquivo direto no navegador
 
-Clique com o **botão direito** no arquivo **index.html.**
+No gerenciador de arquivos, entre na pasta onde esta o projeto, clique com o **botão direito** no arquivo **index.html.**
 
 Escolha **"Abrir com..."** e selecione o navegador (Chrome, Edge, Firefox etc).
 
